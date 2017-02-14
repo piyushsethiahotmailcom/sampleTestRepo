@@ -1,0 +1,7 @@
+/*
+	function generateRandomNumber(name){
+		var randomNumber =  Math.floor(Math.random() * (15 - 6 + 1)) + 6;
+		name = name +" "+randomNumber;
+		return name;   
+	}
+*/
